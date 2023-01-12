@@ -1,0 +1,22 @@
+2022/08/31 
+1、安卓主版本更新;
+2、更新OTA软件；
+
+2023/01/08
+wayne更新：
+1、同步tequilaOS最新源；
+2、更新一月安全更新；
+3、ROM包采用动态分区，erofs格式分区；
+4、添加支持OTA更新；
+5、修复支持QSscan；
+
+2023/01/08
+wayne updates：
+1. Synchronize the latest source of tequilaOS;
+2. Update January security update;
+3. ROM package adopts dynamic partitioning, erofs format partitioning;
+4. Add support for OTA updates;
+5. Fix support for QSscan;
+
+2023/01/12
+wayne updates：
