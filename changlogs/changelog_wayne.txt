@@ -20,3 +20,5 @@ wayne updates：
 
 2023/01/12
 wayne updates：
+1、change ota updater url;
+2、change changelog url;
