@@ -28,3 +28,6 @@ wayne- updates：
 1、Update luncher3 Chinese translations
 ota: wayne-20230114-1110
 
+20230114
+ota: wayne-20230114-1110
+
