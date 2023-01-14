@@ -24,5 +24,7 @@ wayne updates：
 2、change changelog url;
 
 2023/01/12
-wayne updates：
+wayne- updates：
 1、Update luncher3 Chinese translations
+ota: wayne-20230114-1110
+
