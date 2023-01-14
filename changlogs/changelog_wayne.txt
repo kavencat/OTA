@@ -26,9 +26,9 @@ wayne updates：
 2023/01/14
 wayne- updates：
 1、Update luncher3 Chinese translations
+
 2023/01/14
 ota: wayne-20230114-1110 updates:
-
 packages_apps_tequilaSettings:
 1、tequilaSettings: Separate double tap to sleep on lockscreen [2/2]
 2、tequilaSettings: Double tap to sleep on statusbar[2/2]
