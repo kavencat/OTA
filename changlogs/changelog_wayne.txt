@@ -29,17 +29,4 @@ wayne- updates：
 
 2023/01/14
 ota: wayne-20230114-1110 updates:
-packages_apps_tequilaSettings:;
-1、tequilaSettings: Separate double tap to sleep on lockscreen [2/2];
-2、tequilaSettings: Double tap to sleep on statusbar[2/2];
-3、tequilaSettings: Redesign tequilaSettings;
-frameworks_base：;
-1、Save user preferred resolution into persistent data store;
-2、TunerServiceImpl: Blacklist Settings.System from tuner reset;
-3、SystemUI: tuner: Allow Tuner API for System settings;
-4、TunerService: Prevent NPE with tunable;
-5、Tuner: Don't clear out prefs, it's not disabled;
-6、SystemUI: disable dt2s by default;
-7、Separate double tap to sleep on lockscreen [1/2];
-8、SystemUI: Add double tap to sleep gesture [1/2];
-9、SystemUI: use DOUBLE_TAP_TO_WAKE setting also for wake from aod;
+;
