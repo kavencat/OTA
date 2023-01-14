@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1670563917,
-      "filename": "tequila-tobacco-20221209-0532-OFFICIAL-surya.zip",
-      "id": "b2a0ea9aa4aa3dc95de555a205ee7cbfcfbfecf8d05bc62c573df3a63cb48bb2",
-      "size": 1607887581,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_surya/releases/download/20221209-0532/tequila-tobacco-20221209-0532-OFFICIAL-surya.zip",
-      "version": "tobacco"
+      "datetime": 1673568584,
+      "filename": "tequila-tortilla-20230113-0013-OFFICIAL-surya.zip",
+      "id": "d7fb821e9d9eea16c95087d8f40a102d391d79c68228e244672d18e7509c2f24",
+      "size": 1692982741,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_surya/releases/download/20230113-0013/tequila-tortilla-20230113-0013-OFFICIAL-surya.zip",
+      "version": "tortilla"
     }
   ]
 }
