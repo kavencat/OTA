@@ -65,3 +65,15 @@ frameworks_base:
 1. SystemUI: Perform soft reboot when enabling combined signal icons;
 2. SystemUI: Make combined signal icons configurable at runtime [1/2];
 3. Revert "Revert^2 "Remove support for COMBINED_SIGNAL_ICONS"";
+
+2023/01/16
+ota: wayne-20230116-0844 updates:
+
+packages_apps_tequilaSettings:
+1. tequilaSettings: Import combined signal icon
+
+frameworks_base:
+1. base: Forward Port Volume Long Press Skip Tracks [1/2]
+
+Launcher3:
+1、Update luncher3 Chinese translations;
