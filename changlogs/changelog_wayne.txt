@@ -1,6 +1,79 @@
-2023-01-18
-add: wayne-20230116-0844
-123
-1、
-2、
-3、
+2022/08/31 
+1、安卓主版本更新;
+2、更新OTA软件；
+
+2023/01/08
+wayne更新：
+1、同步tequilaOS最新源；
+2、更新一月安全更新；
+3、ROM包采用动态分区，erofs格式分区；
+4、添加支持OTA更新；
+5、修复支持QSscan；
+
+2023/01/08
+wayne updates：
+1. Synchronize the latest source of tequilaOS;
+2. Update January security update;
+3. ROM package adopts dynamic partitioning, erofs format partitioning;
+4. Add support for OTA updates;
+5. Fix support for QSscan;
+
+2023/01/12
+wayne updates：
+1、change ota updater url;
+2、change changelog url;
+
+2023/01/14
+wayne- updates：
+1、Update luncher3 Chinese translations;
+
+2023/01/14
+ota: wayne-20230114-1605 updates:
+packages_apps_tequilaSettings:;;
+1、tequilaSettings: Separate double tap to sleep on lockscreen [2/2];;
+2、tequilaSettings: Double tap to sleep on statusbar[2/2];;
+3、tequilaSettings: Redesign tequilaSettings;;
+frameworks_base：;;
+1、Save user preferred resolution into persistent data store;;
+2、TunerServiceImpl: Blacklist Settings.System from tuner reset;;
+3、SystemUI: tuner: Allow Tuner API for System settings;;
+4、TunerService: Prevent NPE with tunable;;
+5、Tuner: Don't clear out prefs, it's not disabled;;
+6、SystemUI: disable dt2s by default;;
+7、Separate double tap to sleep on lockscreen [1/2];;
+8、SystemUI: Add double tap to sleep gesture [1/2];;
+9、SystemUI: use DOUBLE_TAP_TO_WAKE setting also for wake from aod;;
+
+2023/01/16
+ota: wayne-20230116-0149 updates:
+
+packages_apps_Settings:
+1. Settings: Add package name to installed app details;
+2. Settings: Move custom DP settings under display submenu;
+3. Settings: Disable face enroll on Setup Wizard;
+4. Settings: Allow changing face unlock method when locked [2/2];
+5. Settings: Allow using face as auth method for apps;
+6. Settings: Initial import of Face Unlock for T;
+7. Settings: allow hiding navbar [3/3];
+8. Merge tag 'android-13.0.0_r24';
+9. Settings: Add toggle to enable ADB root;
+
+packages_apps_tequilaSettings:
+1. tequilaSettings: Make combined signal icons configurable at runtime;
+
+frameworks_base:
+1. SystemUI: Perform soft reboot when enabling combined signal icons;
+2. SystemUI: Make combined signal icons configurable at runtime [1/2];
+3. Revert "Revert^2 "Remove support for COMBINED_SIGNAL_ICONS"";
+
+2023/01/16
+ota: wayne-20230116-0844 updates:
+
+packages_apps_tequilaSettings:
+1. tequilaSettings: Import combined signal icon
+
+frameworks_base:
+1. base: Forward Port Volume Long Press Skip Tracks [1/2]
+
+Launcher3:
+1、Update luncher3 Chinese translations;
