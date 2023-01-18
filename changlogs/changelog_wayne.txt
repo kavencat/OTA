@@ -81,3 +81,7 @@ Launcher3:
 add: wayne-20230116-0844
 1、chenge app setting/updater/base/devicesettings language es/in translation；
 2、change app tequilOSsetting language es/in/zh-rCN translation；
+2023-01-19
+add: wayne-20230118-2213
+1、chenge app setting/updater/base/devicesettings language es/in translation；
+2、change app tequilOSsetting language es/in/zh-rCN translation；
