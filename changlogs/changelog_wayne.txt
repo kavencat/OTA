@@ -77,3 +77,7 @@ frameworks_base:
 
 Launcher3:
 1、Update luncher3 Chinese translations;
+2023-01-19
+add: wayne-20230116-0844
+1、chenge app setting/updater/base/devicesettings language es/in translation；
+2、change app tequilOSsetting language es/in/zh-rCN translation；
