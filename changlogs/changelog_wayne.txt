@@ -86,3 +86,6 @@ add: wayne-20230118-2213
 2023-01-19
 add: wayne-20230119-1925
 1、change app tequilOSsetting language zh-rCN translation；
+
+2023-01-20
+ota: wayne-20230119-1925
