@@ -89,3 +89,7 @@ add: wayne-20230119-1925
 
 2023-01-20
 ota: wayne-20230119-1925
+
+2023-01-20
+ota: wayne-20230119-1925
+1、Track system/tools/mkbootimg for tequilaOS；
