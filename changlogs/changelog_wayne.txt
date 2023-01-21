@@ -93,3 +93,9 @@ ota: wayne-20230119-1925
 2023-01-20
 ota: wayne-20230119-1925
 1、Track system/tools/mkbootimg for tequilaOS；
+
+2023-01-21
+ota: wayne-20230121-2042
+1、Track packages/apps/WallpaperPicker for tequilaOS；
+2、Track packages/apps/tequilaPapers for tequilaOS；
+3、Kernel upgrade 4.19.270；
