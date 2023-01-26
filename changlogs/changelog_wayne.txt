@@ -99,3 +99,19 @@ ota: wayne-20230121-2042
 1、Track packages/apps/WallpaperPicker for tequilaOS；
 2、Track packages/apps/tequilaPapers for tequilaOS；
 3、Kernel upgrade 4.19.270；
+
+2023-01-26
+ota: wayne-20230126-0914
+1. Settings: gestures: Add page for Screen-Off UDFPS；
+2. core: pm: Wipe package cache on upgrade;
+3. fw/b: Use ro.build.version.incremental to signal OTA upgrades;
+4. SystemUI: VolumeDialogImpl: Change bg tint for inactive rows;
+5. SystemUI: VolumeDialogImpl: notifyVisible after the volume panel is fully hidden;
+6. SystemUI: VolumeDialogImpl: Show output button if there is an active stream;
+7. SystemUI: Avoid NPE in volume dialog;
+8. SystemUI: Make the volume dialog expandable;
+9. SystemUI: Allow overriding volume panel location;
+10. VolumeDialogImpl: Don't hide the default stream when adjusting the music stream;
+11. VolumeDialogImpl: Respect multiple visible rows in landscape;
+12. VolumeDialogImpl: Don't vibrate when volume dialog is not visible;
+13. Kernel upgrade 4.19.271;
