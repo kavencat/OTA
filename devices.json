@@ -1,5 +1,9 @@
 {
     "OnePlus": {
+        "enchilada": {
+            "name": "6",
+            "discontinued": true
+        },
         "lemonadep": {
             "name": "9 Pro",
             "maintainer": "ejbtrd"

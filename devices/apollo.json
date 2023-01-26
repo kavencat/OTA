@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1673749030,
+      "filename": "tequila-tortilla-20230116-1323-OFFICIAL-apollo.zip",
+      "id": "e486079db0315c341a89e7f92f26ab931ebd6ff9b36bf163eb9292edae273ea8",
+      "size": 1994043467,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_apollo/releases/download/20230116-1323/tequila-tortilla-20230116-1323-OFFICIAL-apollo.zip",
+      "version": "tortilla"
+    }
+  ]
+}
