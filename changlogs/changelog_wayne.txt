@@ -115,3 +115,7 @@ ota: wayne-20230126-0914
 11. VolumeDialogImpl: Respect multiple visible rows in landscape;
 12. VolumeDialogImpl: Don't vibrate when volume dialog is not visible;
 13. Kernel upgrade 4.19.271;
+
+2023-01-27
+ota: wayne-20230127-1632
+Synchronize the latest source code;
