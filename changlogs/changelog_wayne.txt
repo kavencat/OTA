@@ -119,3 +119,9 @@ ota: wayne-20230126-0914
 2023-01-27
 ota: wayne-20230127-1632
 Synchronize the latest source code;
+
+2023-01-30
+ota: wayne-20230130-2046
+Synchronize the latest source code;
+Synchronize the xiaolegun device tree;
+Synchronize the xiaolegun kernelfix tree;
