@@ -9,6 +9,20 @@
             "maintainer": "ejbtrd"
         }
     },
+    "Samsung": {
+        "crownlte": {
+            "name": "Galaxy Note9",
+            "maintainer": "WindowsDev0"
+        },
+        "starlte": {
+            "name": "Galaxy S9",
+            "maintainer": "WindowsDev0"
+        },
+        "star2lte": {
+            "name": "Galaxy S9+",
+            "maintainer": "WindowsDev0"
+        }
+    },
     "Xiaomi": {
         "alioth": {
             "name": "Poco F3",
@@ -24,6 +38,10 @@
         },
         "jasmine_sprout": {
             "name": "Mi A2",
+            "maintainer": "clarencelol"
+        },
+        "miatoll": {
+            "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
             "maintainer": "clarencelol"
         },
         "renoir": {
