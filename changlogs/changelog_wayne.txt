@@ -125,3 +125,33 @@ ota: wayne-20230130-2046
 Synchronize the latest source code;
 Synchronize the xiaolegun device tree;
 Synchronize the xiaolegun kernelfix tree;
+
+2023-02-01
+ota: wayne-20230201-1001
+frameworks/base:
+1、DisplayUtils: Introduce getScaleFactor
+2、AlertSlider: Allow UI to work with multiple resolutions
+3、TriStateUi: Adapt onShowRequested changes
+4、TriStateUi: Adapt new status bar height api
+5、Alert Slider: check for existing dialog before creating new
+6、AlertSlider: Support slider actions without broadcast from device
+7、AlertSlider: Add toggle to disable notifications [1/2]
+8、AlertSlider: Update theme more swiftly
+9、AlertSlider: Prevent crash in case of incomplete broadcast
+10、fwb: AlertSlider: Add more resources
+11、fwb: AlertSlider: Fix layout for 180 rotation
+12、fwb: AlertSlider: update resources
+13、AlertSlider: refactor to reflect slider state
+14、Alert Slider: Improve layout
+15、fwb: Alert slider: Use default position behaviour if position not spe…
+16、fwb: Alert slider: Do not hardcode slider position based on ringer mode
+17、fwb: Alert slider: Work better with Key Handlers
+18、SystemUI: Alert slider: Make tri-state SystemUI dialog dimensions con…
+19、SystemUI: Alert slider: Introduce user interface for Alert Sliders
+20、DisplayModeDirector: Allow to enforce user selected resolution
+
+apps/tequilaSettings：
+1、tequilaSettings: VolumeMusicControl: Use new material-you illustratio…
+2、tequilaSettings: Forward Port Volume Long Press Skip Tracks [2/2]
+3、tequilaSettings: add button fragment
+4、tequilaSettings: Remove icons of preferences in subcategories
