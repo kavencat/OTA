@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1675368052,
+      "filename": "tequila-tortilla-20230202-2004-OFFICAL-starlte.zip",
+      "id": "6ae4f33f5ff0e2fa0f5e41aab6347862f89a2239d6defc41213baa31ce4bee7a",
+      "size": 1568103514,
+      "url": "https://github.com/tequilaOS/platform_device_samsung_starlte/releases/download/20230202-2004/tequila-tortilla-20230202-2004-OFFICAL-starlte.zip",
+      "version": "tortilla"
+    }
+  ]
+}
