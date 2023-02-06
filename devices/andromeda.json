@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1675498520,
+      "filename": "tequila-tortilla-20230204-2014-OFFICIAL-andromeda.zip",
+      "id": "7d780886a14c9af4d2796274ab8e20e60417452548129984e4d8932f17dbb464",
+      "size": 1838329049,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_andromeda/releases/download/20230204-2014/tequila-tortilla-20230204-2014-OFFICIAL-andromeda.zip",
+      "version": "tortilla"
+    }
+  ]
+}

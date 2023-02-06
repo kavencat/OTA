@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1675530391,
+      "filename": "tequila-tortilla-20230204-2039-OFFICIAL-crosshatch.zip",
+      "id": "66fd5a0b837a97d1c1fbe267c32d272c385cbed590bb780149e1843b93b83c61",
+      "size": 1500399832,
+      "url": "https://github.com/tequilaOS/platform_device_google_crosshatch/releases/download/20230204-2039/tequila-tortilla-20230204-2039-OFFICIAL-crosshatch.zip",
+      "version": "tortilla"
+    }
+  ]
+}

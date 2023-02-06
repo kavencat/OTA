@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1675530391,
+      "filename": "tequila-tortilla-20230204-1823-OFFICIAL-blueline.zip",
+      "id": "1b8f7784499991ce661408c04efcb667268a19cdf019d96b3c8d8820b18a31f7",
+      "size": 1500493197,
+      "url": "https://github.com/tequilaOS/platform_device_google_blueline/releases/download/20230204-1823/tequila-tortilla-20230204-1823-OFFICIAL-blueline.zip",
+      "version": "tortilla"
+    }
+  ]
+}

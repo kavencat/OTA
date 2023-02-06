@@ -1,4 +1,14 @@
 {
+    "Google": {
+        "blueline": {
+            "name": "Pixel 3",
+            "maintainer": "DarkPlayerr"
+        },
+        "crosshatch": {
+            "name": "Pixel 3 XL",
+            "maintainer": "DarkPlayerr"
+        }
+    },
     "OnePlus": {
         "enchilada": {
             "name": "6",
@@ -6,7 +16,7 @@
         },
         "lemonadep": {
             "name": "9 Pro",
-            "maintainer": "ejbtrd"
+            "discontinued": true
         }
     },
     "Samsung": {
@@ -28,9 +38,13 @@
             "name": "Poco F3",
             "maintainer": "Fikri"
         },
+	"andromeda": {
+	    "name": "Mi MIX 3 5G",
+	    "maintainer": "windeqk"
+	},
         "apollo": {
             "name": "Mi 10T / Mi 10T Pro",
-            "maintainer": "The Vision"
+            "maintainer": "przekichane"
         },
         "ginkgo": {
             "name": "Redmi Note 8",
@@ -46,7 +60,7 @@
         },
         "renoir": {
             "name": "Mi 11 Lite 5G",
-            "maintainer": "ejbtrd"
+            "maintainer": "przekichane"
         },
         "surya": {
             "name": "Poco X3 NFC",
@@ -54,7 +68,7 @@
         },
         "umi": {
             "name": "Mi 10",
-            "maintainer": "ejbtrd"
+            "maintainer": "przekichane"
         },
         "wayne": {
             "name": "Mi 6X",
