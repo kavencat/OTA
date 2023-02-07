@@ -155,3 +155,34 @@ apps/tequilaSettings：
 2、tequilaSettings: Forward Port Volume Long Press Skip Tracks [2/2]
 3、tequilaSettings: add button fragment
 4、tequilaSettings: Remove icons of preferences in subcategories
+
+2023-02-07
+ota: wayne-20230206-2103
+frameworks/base:
+1、base: Add three-fingers-swipe to screenshot [1/2]
+
+apps/Settings：
+1、Settings: Set kernel version as selectable
+2、Settings: Change kernel preference behavior
+3、Settings: Show full proc/version information
+4、Settings: Add three-fingers-swipe to screenshot [2/2]
+
+frameworks/core：
+1、core: Expose method to start assistant through Binder
+2、SystemUI: Allow privileged system apps to access screenshot service
+
+bionic：
+1、libc: netinet: define typedef in_addr_t
+2、Add inaddr.h header file
+
+frameworks/opt/telephony：
+1、Provide a default executor
+2、Conditionally revert "Block Binder thread until incoming call process…
+3、Pass correct value to setPreferredNetworkType() for RIL version < 1.4
+4、Fix NPE with 1.0 and 1.1 CardStatus
+
+Working:
+1.fingerprint Is working;
+
+Bug:
+1.auto brightness option gone.
