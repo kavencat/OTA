@@ -186,3 +186,15 @@ Working:
 
 Bug:
 1.auto brightness option gone.
+
+2023-02-08
+ota: wayne-20230207-2004
+Bug:
+1.auto brightness option gone;
+
+kernel:
+1、upgrade 4.19.272;
+
+tequilaos:
+1、Synchronize February security updates；
+2、Synchronize the latest source code;
