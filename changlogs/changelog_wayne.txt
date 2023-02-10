@@ -202,3 +202,8 @@ tequilaos:
 2023-02-08
 ota: wayne-20230208-1820
 1、Synchronize the latest source code;
+
+2023-02-10
+ota: wayne-20230210-1012
+1、Synchronize the latest source code;
+2、Use an unofficial build；
