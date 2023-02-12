@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1675744480,
-      "filename": "tequila-tortilla-20230207-2243-OFFICIAL-alioth.zip",
-      "id": "92054833186a630a26a3711ce464c7aa0758a3c97f3d438122438e79fe692614",
-      "size": 1639976205,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_alioth/releases/download/20230207-2243/tequila-tortilla-20230207-2243-OFFICIAL-alioth.zip",
+      "datetime": 1676079364,
+      "filename": "tequila-tortilla-20230211-0447-OFFICIAL-alioth.zip",
+      "id": "d932da3adb95f627d0f3e2139cf0f898b6a6a51dbccfb83c90c49da6a69eb10d",
+      "size": 1643438271,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_alioth/releases/download/20230211-0447/tequila-tortilla-20230211-0447-OFFICIAL-alioth.zip",
       "version": "tortilla"
     }
   ]

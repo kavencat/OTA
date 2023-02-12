@@ -2,10 +2,10 @@
   "response": [
     {
       "datetime": 1675762391,
-      "filename": "tequila-tortilla-20230207-0939-OFFICIAL-andromeda.zip",
-      "id": "6d8048abbaefa7ae45c684d90d3f7ee1c10506b6f4026ec22feddc1b52f86125",
-      "size": 1838111389,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_andromeda/releases/download/20230207-0939/tequila-tortilla-20230207-0939-OFFICIAL-andromeda.zip",
+      "filename": "tequila-tortilla-20230211-1044-OFFICIAL-andromeda.zip",
+      "id": "d3046248dcbe8171ef4bf2efa33bf2ceae21d39f8be0f5593017b7cbfd5bda19",
+      "size": 1842300108,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_andromeda/releases/download/20230211-1044/tequila-tortilla-20230211-1044-OFFICIAL-andromeda.zip",
       "version": "tortilla"
     }
   ]

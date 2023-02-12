@@ -7,6 +7,14 @@
         "crosshatch": {
             "name": "Pixel 3 XL",
             "maintainer": "DarkPlayerr"
+        },
+        "taimen": {
+            "name": "Pixel 2 XL",
+            "maintainer": "ProgramistaZpolski"
+        },
+        "walleye": {
+            "name": "Pixel 2",
+            "maintainer": "ProgramistaZpolski"
         }
     },
     "OnePlus": {
@@ -45,6 +53,10 @@
         "apollo": {
             "name": "Mi 10T / Mi 10T Pro",
             "maintainer": "przekichane"
+        },
+        "davinci": {
+            "name": "Mi 9T / Redmi K20",
+            "maintainer": "ArixElo"
         },
         "ginkgo": {
             "name": "Redmi Note 8",
