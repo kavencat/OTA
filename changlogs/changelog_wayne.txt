@@ -207,3 +207,7 @@ ota: wayne-20230208-1820
 ota: wayne-20230210-1012
 1、Synchronize the latest source code;
 2、Use an unofficial build；
+
+2023-02-13
+ota: wayne-20230212-2141
+1、Synchronize the latest source code;
