@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1675976694,
-      "filename": "tequila-tortilla-20230210-2227-OFFICIAL-davinci.zip",
-      "id": "395fe8745b63c6d4920cfcbfe4cc321a39b53c26b6795d89a1ed8c1f4fdd860d",
-      "size": 1774267824,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_davinci/releases/download/20230210-2227/tequila-tortilla-20230210-2227-OFFICIAL-davinci.zip",
+      "datetime": 1676819852,
+      "filename": "tequila-tortilla-20230219-2049-OFFICIAL-davinci.zip",
+      "id": "1db5cb6795a873a8bee98cb969fa71ab26de47a19ba672fe43d7ed77293010c0",
+      "size": 1959976347,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_davinci/releases/download/20230219-2049/tequila-tortilla-20230219-2049-OFFICIAL-davinci.zip",
       "version": "tortilla"
     }
   ]
