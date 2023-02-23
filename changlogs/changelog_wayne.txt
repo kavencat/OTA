@@ -244,3 +244,8 @@ ota: wayne-20230218-1437
 ota: wayne-20230219-1044
 1、Synchronize the latest source code;
 2、Update Chinese translations;
+
+2023-02-23
+ota: wayne-20230222-1917
+1、Synchronize the latest source code;
+2、Update Chinese translations;
