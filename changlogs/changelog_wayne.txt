@@ -255,3 +255,9 @@ ota: wayne-20230223-2131
 1、Synchronize the latest source code;
 2、Update Chinese translations;
 3、Kernel upgrade 4.19.273;
+
+2023-02-26
+ota: wayne-20230226-0254
+1、Synchronize the latest source code;
+2、Update Chinese translations;
+3、Kernel upgrade 4.19.274;
