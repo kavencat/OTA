@@ -261,3 +261,10 @@ ota: wayne-20230226-0254
 1、Synchronize the latest source code;
 2、Update Chinese translations;
 3、Kernel upgrade 4.19.274;
+
+2023-03-06
+ota: wayne-20230306-1352
+1、Synchronize the latest source code;
+2、Update Chinese translations;
+3、Add traffic status bar indications;
+4、Kernel upgrade 4.19.275;
