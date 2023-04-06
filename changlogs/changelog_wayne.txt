@@ -278,3 +278,8 @@ ota: wayne-20230321-1736
 2023-03-29
 ota: wayne-20230329-1000
 1、Synchronize the latest source code;
+
+2023-04-06
+ota: wayne-20230406-1035
+1、Synchronize the latest source code;
+2、Update kernel version to 4.19.280;
