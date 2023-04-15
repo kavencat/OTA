@@ -288,3 +288,7 @@ ota: wayne-20230406-1035
 ota: wayne-20230412-1425
 1、Synchronize the latest source code;
 2、April Security Update;
+
+2023-04-15
+ota: wayne-20230415-1138
+1、Synchronize the latest source code;
