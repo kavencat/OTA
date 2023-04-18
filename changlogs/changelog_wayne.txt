@@ -292,3 +292,7 @@ ota: wayne-20230412-1425
 2023-04-15
 ota: wayne-20230415-1138
 1、Synchronize the latest source code;
+
+2023-04-18
+ota: wayne-20230418-0952
+1、Synchronize the latest source code;
