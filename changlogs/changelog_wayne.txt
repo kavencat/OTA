@@ -300,3 +300,7 @@ ota: wayne-20230418-0952
 2023-04-29
 ota: wayne-20230429-0946
 1、Synchronize the latest source code;
+
+2023-04-30
+ota: wayne-20230430-0014
+1、Synchronize the latest source code;
