@@ -304,3 +304,8 @@ ota: wayne-20230429-0946
 2023-04-30
 ota: wayne-20230430-0014
 1、Synchronize the latest source code;
+
+2023-05-03
+ota: wayne-20230503-1621
+1、Synchronize the latest source code;
+2、Upgrade May Security Update;
