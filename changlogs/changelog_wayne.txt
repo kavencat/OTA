@@ -309,3 +309,10 @@ ota: wayne-20230430-0014
 ota: wayne-20230503-1621
 1、Synchronize the latest source code;
 2、Upgrade May Security Update;
+
+2023-05-19
+ota: wayne-20230518-2257
+1、Synchronize the latest source code;
+2、SystemUI: allow to set combined statusbar icons with a config;
+3、HACK: telephony: Conditionally force enable LTE_CA；
+4、Update kernel version 4.19.283;
