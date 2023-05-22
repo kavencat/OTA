@@ -320,3 +320,9 @@ ota: wayne-20230518-2257
 2023-05-19
 ota: wayne-20230519-1346
 1、Synchronize the latest source code;
+
+2023-05-22
+ota: wayne-20230522-1940
+1、Synchronize the latest source code;
+2、Fix the problem of slow exit of boot animation;
+3、Request correct rendering type for EGL config;
