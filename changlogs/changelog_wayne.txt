@@ -326,3 +326,14 @@ ota: wayne-20230522-1940
 1、Synchronize the latest source code;
 2、Fix the problem of slow exit of boot animation;
 3、Request correct rendering type for EGL config;
+
+2023-05-24
+ota: --
+1、Synchronize the latest source code;
+2、Fix the problem of slow exit of boot animation;
+3、Request correct rendering type for EGL config;
+
+2023-05-31
+ota: wayne-20230531-1142
+1、Synchronize the latest source code;
+2、Update kernel version to 4.19.284;
