@@ -343,9 +343,9 @@ ota: wayne-20230604-0027
 1、Synchronize the latest source code;
 
 2023-06-28
-ota: wayne.zip tequila_wayne-20230628-2002
+ota: wayne.zip-20230628-2002
 1、Synchronize the latest source code;
 
-2023-06-28
-ota: wayne.zip-20230628-2002
+2023-07-28
+ota: wayne-20230728-0003
 1、Synchronize the latest source code;
