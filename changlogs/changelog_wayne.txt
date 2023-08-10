@@ -353,3 +353,15 @@ ota: wayne-20230728-0003
 2023-07-30
 ota: wayne-20230730-1552
 1、Synchronize the latest source code;
+
+2023-08-10
+ota: --
+1、Synchronize the latest source code;
+2、Kernel version update 4.19.290;
+3、Synchronize the August 5 security update;
+
+2023-08-10
+ota: wayne-20230810-1131
+1、Synchronize the latest source code;
+2、Kernel version update 4.19.290;
+3、Synchronize the August 5 security update;
