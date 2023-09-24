@@ -376,3 +376,8 @@ ota: wayne-20230828-2151
 1、Synchronize the latest source code;
 2、Kernel version update 4.19.292;
 3、Fixed the problem that USB could not be connected to the computer due to kernel;
+
+2023-09-24
+ota: wayne-20230924-2108
+1、Synchronize the latest source code;
+2、Kernel version update 4.19.295;
