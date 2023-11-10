@@ -1,12 +1,12 @@
 {
    "response": [
       {
-		"datetime": 1695560915,
-		"filename": "tequila-taco-20230924-2108-UNOFFICIAL-wayne.zip",
-		"id": "993b65d7587ba6549e6a4b720b13b0cc2a3383cea9edeb905cf726cbe30dd8a3",
-		"size": 1543483786,
-		"url": "https://sourceforge.net/projects/wayney/files/2023-09-24/tequila-taco-20230924-2108-UNOFFICIAL-wayne.zip/download",
-		"version": "taco"
+		"datetime": 1699615781,
+		"filename": "tequila-uno-20231110-1929-UNOFFICIAL-wayne.zip",
+		"id": "91c5ecdee4b1df4f1d8f404f0fb398cf22331007bc4135c1da6bd957c39c0a39",
+		"size": 1663538081,
+		"url": "https://sourceforge.net/projects/wayney/files/2023-11-10/tequila-uno-20231110-1929-UNOFFICIAL-wayne.zip/download",
+		"version": "uno"
        }
    ]
 }

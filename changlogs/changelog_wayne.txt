@@ -381,3 +381,15 @@ ota: wayne-20230828-2151
 ota: wayne-20230924-2108
 1、Synchronize the latest source code;
 2、Kernel version update 4.19.295;
+
+2023-11-10
+ota: wayne-20231110-1929
+update:
+1、update Android 14;
+2、update Advanced options;
+3、add KernelSU suport;
+
+bugs:
+1、GPS is not working;
+2、Calls are silent;
+3、Fingerprints don't work;
