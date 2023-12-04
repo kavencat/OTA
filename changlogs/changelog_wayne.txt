@@ -393,3 +393,7 @@ bugs:
 1、GPS is not working;
 2、Calls are silent;
 3、Fingerprints don't work;
+
+2023-12-04
+ota: wayne-20231204-1444
+1、kernel update to 4.19.300
