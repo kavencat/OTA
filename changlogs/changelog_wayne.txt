@@ -397,3 +397,8 @@ bugs:
 2023-12-04
 ota: wayne-20231204-1444
 1、kernel update to 4.19.300
+
+2023-12-10
+ota: wayne-20231210-0130
+1、kernel update to 4.19.301;
+2、Updated to December 5 security update;
