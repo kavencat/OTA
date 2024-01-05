@@ -1,0 +1,6 @@
+device:$device
+model:Mi 6X 
+2024-01-05
+wayne: update 04/01/2024
+1、kernel update to 4.19.301;
+2、Updated to December 5 security update;
