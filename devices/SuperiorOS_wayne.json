@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1704541268,
-      "filename": "SuperiorOS-Fourteen-wayne-GAPPS-RELEASE-20240106-1941.zip",
-      "id": "4fc2eadda976e1331d2ad380440c4c560a6ab49460d9975ac30e1621190a064a",
-      "romtype": "RELEASE",
-      "size": 1618226215,
-      "url": "https://sourceforge.net/projects/wayney/files/2024-01-06/SuperiorOS-Fourteen-wayne-GAPPS-RELEASE-20240106-1941.zip/download",
+      "datetime": 1708587794,
+      "filename": "SuperiorOS-Fourteen-wayne-GAPPS-DEVELOPER-20240222-1543.zip",
+      "id": "86a7d8a6503aa74456985352f878745842b563ff4b9599d40dda7e7bc7d25b9b",
+      "romtype": "DEVELOPER",
+      "size": 1659057984,
+      "url": "https://sourceforge.net/projects/wayney/files/SuperiorOS/2024-02-22/SuperiorOS-Fourteen-wayne-GAPPS-DEVELOPER-20240222-1543.zip/download",
       "version": "Fourteen",
       "device_name": "wayne",
       "maintainer": "kavencat"
