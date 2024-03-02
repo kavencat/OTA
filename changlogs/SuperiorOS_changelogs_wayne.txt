@@ -1,7 +1,6 @@
 device:wayne
 modle: XiaoMi 6x
 
-25/02/2024
-1、kernel update to 4.19.307;
+02/03/2024
+1、kernel update to 4.19.308;
 2、The security information is updated as of February 5, 2024;
-3、add Recoder APP;
