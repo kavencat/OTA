@@ -1,0 +1,8 @@
+device:wayne
+modle: XiaoMi 6x
+
+04/04/2024
+1、kernel update to 4.19.311;
+2、The security information is updated as of April 5, 2024;
+3、Face unlocking is available;
+4、Default KernelSU;

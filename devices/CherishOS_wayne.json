@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "kavencat",
+			"oem": "XiaoMi",
+			"device": "XiaoMi 6X",
+			"filename": "Cherish-OS-v5.4-20240404-1851-wayne-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/wayney/files/CherishOS/2024-04-04/Cherish-OS-v5.4-20240404-1851-wayne-OFFICIAL-GApps.zip/download",
+			"timestamp": 1712221642,
+			"md5": "167c5a2e857ce3602e37b806097d3678",
+			"sha256": "88ea397cf166396303449d53523291ff98be5a1288e419525f9cd08d101a869e",
+			"size": 2174016089,
+			"version": 5.4,
+			"buildtype": "Releases",
+			"forum": "https://t.me/cherishOS",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/cat0325",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
