@@ -1,7 +1,7 @@
 device:wayne
 modle: XiaoMi 6x
 
-07/04/2024
+12/04/2024
 1、kernel update to 4.19.311;
 2、The security information is updated as of April 5, 2024;
-3、Default KernelSU;
+3、add GameSpace app;
