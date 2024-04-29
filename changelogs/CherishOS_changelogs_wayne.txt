@@ -1,8 +1,5 @@
 device:wayne
 modle: XiaoMi 6x
 
-15/04/2024
-1、kernel update to 4.19.312;
-2、Synchronize the latest source code;
-3、add AOD suport;
-4、fix update not insall ROM;
+29/04/2024
+1、Synchronize the latest source code;
