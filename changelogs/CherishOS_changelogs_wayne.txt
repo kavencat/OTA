@@ -1,5 +1,6 @@
 device:wayne
 modle: XiaoMi 6x
 
-29/04/2024
+11/05/2024
 1、Synchronize the latest source code;
+2、Update the May security patch;
