@@ -1,6 +1,6 @@
 device:wayne
 modle: XiaoMi 6x
 
-16/05/2024
+28/05/2024
 1、Synchronize the latest source code;
-2、Fixed No mobile or WIFI network is available under GPS;
+2、kernel version update to 4.19.315;
