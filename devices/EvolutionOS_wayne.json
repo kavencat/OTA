@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "kavencat",
+      "oem": "XiaoMi",
+      "device": "XiaoMi 6X",
+      "filename": "EvolutionX-14.0-20240714-wayne-v9.2-Official.zip",
+      "download": "https://sourceforge.net/projects/wayney/files/EvolutionOS/2024-07-14/EvolutionX-14.0-20240714-wayne-v9.2-Official.zip/download",
+      "timestamp": 1720936985,
+      "md5": "6b2bd0e512ce9c3f160b2ff6884fcc6e",
+      "sha256": "40d017a49dda0d096839ed01adab5d54a0fb273984f2861e872d1e4155bc2a52",
+      "size": 2320586668,
+      "version": "9.2",
+      "buildtype": "Releases",
+      "forum": "",
+      "firmware": "https://github.com/kavencat/android_vendor_xiaomi_wayne-4.19",
+      "paypal": "",
+      "telegram": "https://t.me/cat0325"
+    }
+  ]
+}
