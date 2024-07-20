@@ -1,5 +1,6 @@
 device:wayne
 modle: XiaoMi 6x
 
-14/07/2024
-1、Build for the first time for EvolutionOS
+20/07/2024
+1、Build for the first time for EvolutionOS；
+2、kernel update to 4.19.318;
