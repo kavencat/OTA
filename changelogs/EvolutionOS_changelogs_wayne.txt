@@ -1,5 +1,8 @@
 device:wayne
 modle: XiaoMi 6x
 
-23/07/2024
+30/07/2024
 1、Synchronize the latest source code；
+2、Fix GNSS error;
+
+All updates are full
