@@ -1,8 +1,59 @@
 device:wayne
 modle: XiaoMi 6x
 
-30/07/2024
-1、Synchronize the latest source code；
-2、Fix GNSS error;
+08/08/2024
+device changes:
+1、Revert "wayne:camera:configs changes"；
+2、wayne: add usb.gadget in following HALs；
+3、wayne: update blobs；
+4、wayne: device: Migrate to QTI USB Gadget 1.2 HIDL；
 
-All updates are full
+Evolution changes:
+1、overlay: Enable aspect ratio settings；
+2、PhoneWindowManager: Check NPE for LineageHardware；
+3、ImageReader: remove native call to detachImage；
+4、FrameTracker: Silence logspam；
+5、Extends "base: Implement cutout force full screen [1/2]"；
+6、Import CutoutUtils；
+7、data: Include NotoColorEmojiAddon font；
+8、NetworkTraffic: Prevent SystemUI crash on user change；
+9、services: Scale max cached processes based on total ram size；
+10、services: Unboost MAX_CACHED_PROCESSES；
+
+kernel 4.19.319 changes:
+1、gcc-plugins: Rename last_stmt() for GCC 14+；
+2、scsi: qedf: Set qed_slowpath_params to zero before use；
+3、ACPI: EC: Abort address space access upon error；
+4、ACPI: EC: Avoid returning AE_OK on errors in address space handler；
+5、wifi: mac80211: mesh: init nonpeer_pm to active by default in mesh sdata；
+6、wifi: mac80211: fix UBSAN noise in ieee80211_prep_hw_scan()；
+7、Input: silead - Always support 10 fingers；
+8、ila: block BH in ila_output()；
+9、kconfig: gconf: give a proper initial state to the Save button；
+10、kconfig: remove wrong expr_trans_bool()；
+11、fs/file: fix the check in find_next_fd()；
+12、mei: demote client disconnect warning on suspend to debug；
+13、wifi: cfg80211: wext: add extra SIOCSIWSCAN data check；
+14、Input: elantech - fix touchpad state on resume for Lenovo N24；
+15、bytcr_rt5640 : inverse jack detect for Archos 101 cesium；
+16、can: kvaser_usb: fix return value for hif_usb_send_regout；
+17、s390/sclp: Fix sclp_init() cleanup on failure；
+18、ALSA: dmaengine_pcm: terminate dmaengine before synchronize；
+19、net: usb: qmi_wwan: add Telit FN912 compositions；
+20、net: mac802154: Fix racy device stats updates by DEV_STATS_INC() and DEV_STATS_ADD()；
+21、Bluetooth: hci_core: cancel all works upon hci_unregister_dev()；
+22、fs: better handle deep ancestor chains in is_subdir()；
+23、spi: imx: Don't expect DMA for i.MX{25,35,50,51,53} cspi devices；
+24、selftests/vDSO: fix clang build errors and warnings；
+25、hfsplus: fix uninit-value in copy_name；
+26、filelock: Remove locks reliably when fcntl/close race is detected；
+27、ARM: 9324/1: fix get_user() broken with veneer；
+28、ACPI: processor_idle: Fix invalid comparison with insertion sort for latency；
+29、net: relax socket state check at accept time；
+30、ocfs2: add bounds checking to ocfs2_check_dir_entry()；
+31、jfs: don't walk off the end of ealist；
+32、filelock: Fix fcntl/close race recovery compat path；
+
+There is a problem：
+1、The camera gets stuck or freezes due to fast switching；
+2、If the debugging mode has been enabled, you need to re-open the debugging mode after re-plugging and unplugging before the computer can recognize or enter the file transfer mode；
