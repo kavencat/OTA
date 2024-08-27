@@ -1,16 +1,13 @@
 device:wayne
 modle: XiaoMi 6x
 
-09/08/2024
+27/08/2024
 device changes:
 nothing
 
 Evolution changes:
 1、Sync the latest updates；
-2、Update the August security patch；
-
-kernel 4.19.319 changes:
-nothing
+2、Kernel update to 4.19.320;
 
 There is a problem：
 1、The camera gets stuck or freezes due to fast switching；
