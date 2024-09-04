@@ -1,14 +1,15 @@
 device:wayne
 modle: XiaoMi 6x
 
-27/08/2024
+05/09/2024
 device changes:
 nothing
 
 Evolution changes:
 1、Sync the latest updates；
-2、Kernel update to 4.19.320;
+2、Kernel update to 4.19.321;
+3、Update the September security patch
 
 There is a problem：
 1、The camera gets stuck or freezes due to fast switching；
-2、If the debugging mode has been enabled, you need to re-open the debugging mode after re-plugging and unplugging before the computer can recognize or enter the file transfer mode；
+2、On linux ，If the debugging mode has been enabled, you need to re-open the debugging mode after re-plugging and unplugging before the computer can recognize or enter the file transfer mode；
